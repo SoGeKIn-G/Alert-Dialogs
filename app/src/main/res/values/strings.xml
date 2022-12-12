@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alert Dialogs</string>
+    <string name="cancel">CANCEL</string>
+    <string name="start">START</string>
+    <string name="dialog_heading">Start Game</string>
+    <string name="ok">OK</string>
+    <string name="dialog_message">Automatic Brightness</string>
+    <string name="dialog_title">Brightness</string>
+    <string name="pick_color">Pick a Color</string>
+    <string name="dialog_title_4">Pick Your Toppings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+</resources>
